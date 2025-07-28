@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy – GoldKit</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; max-width: 800px; line-height: 1.6; }
+    h1, h2 { color: #333; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for GoldKit</h1>
+  <p><strong>Effective Date:</strong> July 28, 2025</p>
+
+  <h2>1. Information We Collect</h2>
+  <p>We do not collect any personally identifiable information. However, the app may collect non-personal data through Google AdMob, such as device type, OS, and advertising ID.</p>
+
+  <h2>2. Third-Party Services</h2>
+  <p>GoldKit uses Google AdMob to display ads. These services may collect and use data under their own privacy policies:
+    <br>
+    <a href="https://policies.google.com/privacy" target="_blank">Google AdMob Privacy Policy</a>
+  </p>
+
+  <h2>3. How We Use Information</h2>
+  <p>We use non-personal data to serve relevant ads and improve user experience. No data is used to identify or track users.</p>
+
+  <h2>4. Data Security</h2>
+  <p>GoldKit does not store any user data. All calculations happen on your device.</p>
+
+  <h2>5. Children's Privacy</h2>
+  <p>We do not knowingly collect personal data from children under 13.</p>
+
+  <h2>6. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy. Updates will be posted here or within the app.</p>
+
+  <h2>7. Contact Us</h2>
+  <p>If you have any questions, contact us at:<br>
+  <strong>Email:</strong> skillhunt3r01@gmail.com</p>
+</body>
+</html>
